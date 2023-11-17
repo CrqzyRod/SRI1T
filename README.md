@@ -24,6 +24,10 @@ Con libapache2-mod-php permitimos que Apache gestione archivos php y con php-mys
 
 ![php](/objetos/php.png)
 
+Para comprobar que está bien instalado usamos php -v para ver su versión
+
+![php2](/objetos/php2.png)
+
 Instala y configura wordpress.
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.

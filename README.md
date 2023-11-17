@@ -5,6 +5,11 @@
 1. Instalación del servidor web apache. Usaremos dos dominios mediante el archivo hosts: centro.intranet y departamentos.centro.intranet. El primero servirá el contenido mediante wordpress y el segundo una aplicación en python.
 
 ![installapache](/objetos/installapache.png)
+
+Como podemos ver ya tenemos Apache instalado y funcionando correctamente.
+
+![installapache2](/objetos/installapache2.png)
+
 2. Activar los módulos necesarios para ejecutar php y acceder a mysql.
 3. Instala y configura wordpress.
 4. Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.

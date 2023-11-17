@@ -11,7 +11,18 @@ Como podemos ver ya tenemos Apache instalado y funcionando correctamente.
 ![installapache2](/objetos/installapache2.png)
 
 2. Activar los módulos necesarios para ejecutar php y acceder a mysql.
+Primero instalaremos mysql con el siguiente comando: apt install mysql-server
 
+![installmysql](/objetos/mysqlinstall.png)
+
+Para confirmar que está instalado escribimos en la línea de comando mysql y vemos como entramos en el programa, para luego salir del programa usamos exit.
+
+![mysql2](/objetos/mysql2.png)
+
+Para instalar php usamos el siguiente comando: apt install php libapache2-mod-php php-mysql.
+Con libapache2-mod-php permitimos que Apache gestione archivos php y con php-mysql permitimos que php se comunique con las bases de datos de mysql.
+
+![php](/objetos/php.png)
 
 Instala y configura wordpress.
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.

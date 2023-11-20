@@ -20,7 +20,11 @@ Configuramos los siguientes parámetros de configuración del servidor
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/098ae8a2-d42d-42a4-be14-438316e67b55)
 
-Activamos los dos 
+Habilitamos los hosts con el siguiente comando: a2ensite hosts.
+Luego usamos systemctl reload apache2 para reiniciar apache.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/3f961d88-9d6f-4789-845a-dfcdd9140fa3)
+
 
 #### 2. Activar los módulos necesarios para ejecutar php y acceder a mysql.
 Primero instalaremos mysql con el siguiente comando: apt install mysql-server

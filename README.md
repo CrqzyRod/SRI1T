@@ -20,7 +20,7 @@ Configuramos los siguientes parámetros de configuración del servidor
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/6330f347-a2b9-419b-bdc8-756932889bad)
 
-
+Activamos los dos 
 
 #### 2. Activar los módulos necesarios para ejecutar php y acceder a mysql.
 Primero instalaremos mysql con el siguiente comando: apt install mysql-server

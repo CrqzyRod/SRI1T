@@ -10,7 +10,7 @@ Como podemos ver ya tenemos Apache instalado y funcionando correctamente.
 
 ![installapache2](/objetos/installapache2.png)
 
-2. Activar los módulos necesarios para ejecutar php y acceder a mysql.
+#### 2. Activar los módulos necesarios para ejecutar php y acceder a mysql.
 Primero instalaremos mysql con el siguiente comando: apt install mysql-server
 
 ![installmysql](/objetos/mysqlinstall.png)

@@ -10,6 +10,18 @@ Como podemos ver ya tenemos Apache instalado y funcionando correctamente.
 
 ![installapache2](/objetos/installapache2.png)
 
+Creamos los virtualhost de cada dominio usando mkdir nombre en la siguiente ruta: /var/www
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/88001fbc-9541-4d1c-8a6a-3475b3715ca0)
+
+Configuramos los siguientes parámetros de configuración del servidor
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/cd1a4829-fe81-4335-bc95-9cc2c4afbc9a)
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/6330f347-a2b9-419b-bdc8-756932889bad)
+
+
+
 #### 2. Activar los módulos necesarios para ejecutar php y acceder a mysql.
 Primero instalaremos mysql con el siguiente comando: apt install mysql-server
 

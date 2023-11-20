@@ -12,7 +12,7 @@ Como podemos ver ya tenemos Apache instalado y funcionando correctamente.
 
 Creamos los virtualhost de cada dominio usando mkdir nombre en la siguiente ruta: /var/www
 
-![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/88001fbc-9541-4d1c-8a6a-3475b3715ca0)
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/ec316b79-07c8-45d3-8c36-eff808a7b59b)
 
 Configuramos los siguientes parámetros de configuración del servidor
 

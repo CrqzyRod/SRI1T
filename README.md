@@ -64,9 +64,15 @@ Empezaremos iniciando sesión con el usuario root en mysql. Con el parámetro -u
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/5ab74f4f-259d-4dac-bb06-4e94a5c678f1)
 
-Una vez logeados introducimos el siguiente comando para crear nuestra base de datos en la cual almacenaremos el sitio al que vamos a servir.
+Una vez logeados introducimos el siguiente comando para crear nuestra base de datos en la cual almacenaremos el sitio al que vamos a servir. 
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/ed9e0239-5506-46b6-a11b-e68eea9458f3)
+
+Creamos el usuario que será el administrador de la base de datos. El primer parámetro es el nombre del usuario, seguido de la máquina con la que podremos acceder, si usamos % tendremos acceso desde todas las máquinas, y con identified by establecemos la contraseña.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/1e54933d-47c7-481c-af09-bd4c10cb347e)
+
+Ahora daremos permisos al usuario en la base de datos
 
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.

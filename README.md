@@ -60,7 +60,7 @@ Para comprobar que está bien instalado usamos php -v para ver su versión
 ![php2](/objetos/php2.png)
 
 #### 3. Instala y configura wordpress.
-Empezaremos iniciando sesión con el usuario root en mysql. Con el parámetro -u indicamos el usuario y con -p indicamos que nos solicite contraseña.
+##### Empezaremos configurando la base de datos.Iniciamos sesión con el usuario root en mysql. Con el parámetro -u indicamos el usuario y con -p indicamos que nos solicite contraseña.
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/5ab74f4f-259d-4dac-bb06-4e94a5c678f1)
 
@@ -79,6 +79,12 @@ Ahora daremos permisos al usuario en la base de datos.
 Una vez configurado todo usamos el comando FLUSH PRIVILEGES para hacer un reinicio y se apliquen los cambios.
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/e1bc5662-ffaf-4c31-a5ca-bae5ddaf69df)
+
+##### Instalamos extensiones adicionales de PHP.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/e94bd0c1-497a-4dfc-827f-4b63b0032b19)
+
+##### Configuración de apache para permitir reemplazos y reescrituras .htaccess.
 
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.

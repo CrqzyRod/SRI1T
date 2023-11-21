@@ -14,6 +14,12 @@ Creamos los virtualhost de cada dominio usando mkdir nombre en la siguiente ruta
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/ec316b79-07c8-45d3-8c36-eff808a7b59b)
 
+Añadimos un fichero index.html en cada que será la pagina principal de nuestro dominio
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/9bc2f3df-a7b3-42d3-b6a1-4edd1de10cf8)
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/4a79a1de-5848-4835-b500-2f1a68ed5a00)
+
 Configuramos los siguientes parámetros de configuración del servidor
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/006625fb-15aa-4370-a6ef-5c5c2d741817)

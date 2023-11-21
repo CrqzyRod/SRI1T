@@ -59,7 +59,15 @@ Para comprobar que está bien instalado usamos php -v para ver su versión
 
 ![php2](/objetos/php2.png)
 
-Instala y configura wordpress.
+#### 3. Instala y configura wordpress.
+Empezaremos iniciando sesión con el usuario root en mysql. Con el parámetro -u indicamos el usuario y con -p indicamos que nos solicite contraseña.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/5ab74f4f-259d-4dac-bb06-4e94a5c678f1)
+
+Una vez logeados introducimos el siguiente comando para crear nuestra base de datos en la cual almacenaremos el sitio al que vamos a servir.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/ed9e0239-5506-46b6-a11b-e68eea9458f3)
+
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.
 Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.

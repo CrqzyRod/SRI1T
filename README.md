@@ -99,6 +99,12 @@ Una vez habilitados los cambios, para verificar que no hay errores, usamos apach
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/0ed30f07-e89b-4ebf-8c08-93bba7182f29)
 
 ##### Descarga de Wordpress
+Para descargar WordPress nos situamos en la carpeta que queramos descargarlo e introducimos la siguiente línea de comando.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/3f58acdb-6160-48b3-8087-bc68d80c55b5)
+
+Extraemos el archivo
+
 
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.

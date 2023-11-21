@@ -31,6 +31,15 @@ Luego usamos systemctl reload apache2 para reiniciar apache.
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/3f961d88-9d6f-4789-845a-dfcdd9140fa3)
 
+Añadimos los dominios al fichero hosts
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/08dea050-7c58-49bc-8185-143f479fd4af)
+
+Si ingresamos el dominio que hemos añadido en un navegador podemos ver el contenido que hay en el fichero creado anteriormente.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/32273f78-162e-4841-ae07-4ea17448a509)
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/2faefa8c-57f0-4216-9743-ceeefe0789ae)
 
 #### 2. Activar los módulos necesarios para ejecutar php y acceder a mysql.
 Primero instalaremos mysql con el siguiente comando: apt install mysql-server

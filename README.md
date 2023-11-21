@@ -86,6 +86,18 @@ Una vez configurado todo usamos el comando FLUSH PRIVILEGES para hacer un reinic
 
 ##### Configuración de apache para permitir reemplazos y reescrituras .htaccess.
 
+Entramos en el fichero de configuración del virtualhost y escribimos el siguiente comando para permitir archivos .htaccess.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/1fad591e-4d0f-4d69-add4-9528f50afdd9)
+
+Habilitamos el módulo de reescritura usando el siguiente comando.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/d9e7c0c5-4d38-4d78-8463-acf78a2e3eea)
+
+Una vez habilitados los cambios, para verificar que no hay errores, usamos apache2ctl configtest,es posible que nos salga este error, no afectaría a la funcionalidad del sitio, si queremos corregirlo, debemos agregar una directiva ServerName en el archivo de configuración principal de apache en /etc/apache2/apache2.conf.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/0ed30f07-e89b-4ebf-8c08-93bba7182f29)
+
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.
 Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.

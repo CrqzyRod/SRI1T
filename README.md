@@ -22,9 +22,9 @@ Añadimos un fichero index.html en cada que será la pagina principal de nuestro
 
 Configuramos los siguientes parámetros de configuración del servidor
 
-![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/006625fb-15aa-4370-a6ef-5c5c2d741817)
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/eaa5a8a9-084b-4bbf-997f-85cf4cea6002)
 
-![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/098ae8a2-d42d-42a4-be14-438316e67b55)
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/f9eedf82-381f-4cb7-81ef-cb896dd0ed95)
 
 Habilitamos los hosts con el siguiente comando: a2ensite hosts.
 Luego usamos systemctl reload apache2 para reiniciar apache.

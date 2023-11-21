@@ -98,7 +98,7 @@ Una vez habilitados los cambios, para verificar que no hay errores, usamos apach
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/0ed30f07-e89b-4ebf-8c08-93bba7182f29)
 
-##### Descargar Wordpress
+##### Descarga de Wordpress
 
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.

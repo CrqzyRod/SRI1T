@@ -72,7 +72,13 @@ Creamos el usuario que será el administrador de la base de datos. El primer par
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/1e54933d-47c7-481c-af09-bd4c10cb347e)
 
-Ahora daremos permisos al usuario en la base de datos
+Ahora daremos permisos al usuario en la base de datos.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/d3fd7270-b47e-4dd9-935f-bdaf151fbaf3)
+
+Una vez configurado todo usamos el comando FLUSH PRIVILEGES para hacer un reinicio y se apliquen los cambios.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/e1bc5662-ffaf-4c31-a5ca-bae5ddaf69df)
 
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.

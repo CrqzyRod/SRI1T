@@ -103,7 +103,13 @@ Para descargar WordPress nos situamos en la carpeta que queramos descargarlo e i
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/78b47cc6-27e0-40ff-ad0a-0ba65a583fce)
 
-Vamos a crear un archivo para añadir los ficheros cr eados anteriormente
+Vamos a crear un archivo para añadir los ficheros creados anteriormente.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/1498d1d2-ca34-41f4-8a10-a53b02b8ba73)
+
+Copiaremos el archivo de configuración que lee WordPress usando el de muestra que trae.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/4af85c9e-8a09-4014-9b9e-1b63c4ee0f36)
 
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.

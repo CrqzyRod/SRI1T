@@ -111,6 +111,11 @@ Copiaremos el archivo de configuración que lee WordPress usando el de muestra q
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/4af85c9e-8a09-4014-9b9e-1b63c4ee0f36)
 
+Creamos el archivo en el que se instalar las actualizaciones de Wordpress para que si Wordpress tuviera que hacerlo por su cuenta no tuvieramos problemas con los permisos.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/27c0616f-4353-488f-9b4f-0cd6c1968617)
+
+
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.
 Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.

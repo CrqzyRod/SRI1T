@@ -134,7 +134,7 @@ Ahora copiamos estos valores en el archivo de configuración de WordPress. Lo ab
 
 Buscamos el apartado en el que se encuentran los valores y los copiamos.
 
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/a8f64119-1b4b-4548-9ac7-2f38a21d6d7f)
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/54cbd77f-a875-4614-acf1-674e101c6d1a)
 
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.

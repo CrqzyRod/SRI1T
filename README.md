@@ -136,9 +136,9 @@ Buscamos el apartado en el que se encuentran los valores y los copiamos.
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/54cbd77f-a875-4614-acf1-674e101c6d1a)
 
-Ahora vamos a ajustar los parámetros de nuestra base de datos en el fichero de configuración. Añadiremosnuestro nombre, usuario y contraseña creados anteriormente.
+Ahora vamos a ajustar los parámetros de nuestra base de datos en el fichero de configuración. Añadiremos nuestro nombre, usuario y contraseña creados anteriormente. También agregaremos otra línea la cual indica la forma en la que escribirá WordPress en el sistema de archivos.
 
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/660426fe-b3d3-4784-976b-8ba415d17e58)
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/623552e3-7074-4293-aab7-48163e73efcc)
 
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.

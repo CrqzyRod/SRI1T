@@ -115,6 +115,26 @@ Creamos el archivo en el que se instalar las actualizaciones de Wordpress para q
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/27c0616f-4353-488f-9b4f-0cd6c1968617)
 
+##### Configurar el directorio de WordPress
+Primero damos permisos al usuario y al grupo www-data que es el que puede escribir archivos de WordPress.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/e04658ad-066e-4164-a52e-681525a69ab0)
+
+Establecemos los permisos a directorios y ficheros de wordpress.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/c8c0c262-b93c-45bf-aa06-1c09befdb64f)
+
+Ahora vamos a configurar unos cambios en el archivo de configuración principal de WordPress. Vamos a ajustar las claves secretas para proporcionar más seguridad a nuestra instalación. WordPress tiene un generador de estos valores, usaremos el siguiente comando para ejecutarlo.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/6c47da23-ffa0-4e5a-9cab-9c24b8222d74)
+
+Ahora copiamos estos valores en el archivo de configuración de WordPress. Lo abrimos con nano.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/181f2563-b83f-42ed-8770-3f9eba1e391f)
+
+Buscamos el apartado en el que se encuentran los valores y los copiamos.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/a8f64119-1b4b-4548-9ac7-2f38a21d6d7f)
 
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.

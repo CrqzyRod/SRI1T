@@ -107,7 +107,7 @@ Extraemos el archivo.
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/f356ceeb-ae9f-43c0-a00f-ffca03cb82cc)
 
-me quede en touch /tmp
+Vamos a crear un archivo para añadir los ficheros cr eados anteriormente
 
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.

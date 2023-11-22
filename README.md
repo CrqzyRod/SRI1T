@@ -99,13 +99,9 @@ Una vez habilitados los cambios, para verificar que no hay errores, usamos apach
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/0ed30f07-e89b-4ebf-8c08-93bba7182f29)
 
 ##### Descarga de Wordpress
-Para descargar WordPress nos situamos en la carpeta que queramos descargarlo e introducimos la siguiente línea de comando.
+Para descargar WordPress nos situamos en la carpeta que queramos descargarlo e introducimos la siguiente línea de comando. Luego lo descargamos usando tar.
 
-![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/3f58acdb-6160-48b3-8087-bc68d80c55b5)
-
-Extraemos el archivo.
-
-![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/f356ceeb-ae9f-43c0-a00f-ffca03cb82cc)
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/78b47cc6-27e0-40ff-ad0a-0ba65a583fce)
 
 Vamos a crear un archivo para añadir los ficheros cr eados anteriormente
 

@@ -182,7 +182,9 @@ Ahora crearemos un controlador que será un archivo almacenado en nuestro direct
 
 Configuración del virtualhost. 
 
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/48c7e8a6-25f4-4ecd-a63b-e6a60a223451)
 
+Una vez configurado el virtualhost habilitamos el sitio web, recargamos apache y habilitamos el sitio en el fichero hosts.
 
 ##### Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.
 ##### Instala y configura awstat.

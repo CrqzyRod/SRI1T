@@ -172,6 +172,18 @@ Antes de crear y desplegar la aplicación en Python tenemos que crear los direct
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/f7dfbf09-791b-4521-aa9d-28647507da4e)
 
+Así quedaría la estructura de nuestro directorio departamentos.centro.intranet.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/9e0edf3e-55d9-40c1-b93e-be862163574b)
+
+Ahora crearemos un controlador que será un archivo almacenado en nuestro directorio pythonapp, el cual se encargue de las peticiones realizadas por el usuario. Lo crearemos usando el editor de texto nano.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/b9103183-4ec8-4606-aaf2-231504ed04b9)
+
+Configuración del virtualhost. 
+
+
+
 ##### Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.
 ##### Instala y configura awstat.
 ##### Instala un segun servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.

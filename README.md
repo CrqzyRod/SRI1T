@@ -140,6 +140,10 @@ Ahora vamos a ajustar los parámetros de nuestra base de datos en el fichero de 
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/623552e3-7074-4293-aab7-48163e73efcc)
 
+Una vez completado todo si entramos en un navegador usando el dominio creado, se nos abrirá la interfaz gráfica de configuración de WordPress.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/e6344ccd-aed9-41d7-be5d-16e936d7767a)
+
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.
 Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.

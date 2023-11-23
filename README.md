@@ -156,8 +156,15 @@ Al iniciar sesión entramos en la interfaz gráfica de configuración de página
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/64f6e27d-c660-4ee0-a1ea-61360c93343c)
 
-Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
-Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.
+##### Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
+
+Primero haremos que Apache incorpore un soporte para servir archivos Python, para ello ejecutaremos la siguiente línea de comandos.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/fec4e96c-ee34-4859-b9f6-75cffab69961)
+
+Una vez activado el módulo reiniciamos Apache para aplicar los cambios.
+
+##### Crea y despliega una pequeña aplicación en Python para comprobar que funciona correctamente.
 Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.
 Instala y configura awstat.
 Instala un segun servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.

@@ -188,4 +188,4 @@ Una vez configurado el virtualhost habilitamos el sitio web, recargamos apache y
 
 ##### Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.
 ##### Instala y configura awstat.
-##### Instala un segun servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.
+##### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.

@@ -166,7 +166,11 @@ Una vez activado el módulo reiniciamos Apache para aplicar los cambios.
 
 ##### Crea y despliega una pequeña aplicación en Python para comprobar que funciona correctamente.
 
-Antes de crear y desplegar la aplicación en Python tenemos que crear los directorios necesarios. Debemos tener un directorio principal destinado a montar toda la aplicación en el cuál añadiremos los distintos directorios de configuración.
+Antes de crear y desplegar la aplicación en Python tenemos que crear los directorios necesarios. Debemos tener un directorio principal destinado a montar toda la aplicación en el cuál añadiremos los distintos directorios de configuración. La arquitectura de este directorio estára dividida en dos partes.
+1.  Estará destinada al almacenaje de nuestra aplicación Python y será un directorio privado.
+2.  Estará destinada a servir el contenido siendo un directorio público en el cuál almacenaremos archivos estáticos.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/f7dfbf09-791b-4521-aa9d-28647507da4e)
 
 ##### Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.
 ##### Instala y configura awstat.

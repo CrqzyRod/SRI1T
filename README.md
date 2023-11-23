@@ -184,7 +184,11 @@ Configuración del virtualhost.
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/48c7e8a6-25f4-4ecd-a63b-e6a60a223451)
 
-Una vez configurado el virtualhost habilitamos el sitio web, recargamos apache y habilitamos el sitio en el fichero hosts.
+Una vez configurado el virtualhost habilitamos el sitio web y recargamos apache.
+
+Si accedemos en un navegador con nuestro dominios podemos ver como el texto escrito anteriormente en el fichero controller aparece por pantalla.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/f262ec5f-c1b4-44d5-8963-d4d73544cd0b)
 
 ##### Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.
 ##### Instala y configura awstat.

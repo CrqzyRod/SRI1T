@@ -165,6 +165,9 @@ Primero haremos que Apache incorpore un soporte para servir archivos Python, par
 Una vez activado el módulo reiniciamos Apache para aplicar los cambios.
 
 ##### Crea y despliega una pequeña aplicación en Python para comprobar que funciona correctamente.
+
+Antes de crear y desplegar la aplicación en Python tenemos que crear los directorios necesarios. Debemos tener un directorio principal destinado a montar toda la aplicación en el cuál añadiremos los distintos directorios de configuración.
+
 ##### Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.
 ##### Instala y configura awstat.
 ##### Instala un segun servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.

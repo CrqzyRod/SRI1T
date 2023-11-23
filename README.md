@@ -144,6 +144,18 @@ Una vez completado todo si entramos en un navegador usando el dominio creado, se
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/e6344ccd-aed9-41d7-be5d-16e936d7767a)
 
+Rellenamos los campos con nuestros datos y pulsamos instalar.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/3972ac1c-cc2a-4f4a-858b-e5147b52de6b)
+
+Se nos ha instalado WordPress y ahora podemos iniciar sesión.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/c57d4bb2-0d18-4293-9385-360fcf3a07f5)
+
+Al iniciar sesión entramos en la interfaz gráfica de configuración de páginas web WordPress.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/64f6e27d-c660-4ee0-a1ea-61360c93343c)
+
 Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 Crea y despliega una pequeña aplicación en Python para comprobar que fucniona correctamente.
 Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.

@@ -223,5 +223,10 @@ Instalamos awstat con el comando apt-get install awstats
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/9134a896-ffd6-4f05-b50a-e421031c93b3)
 
+Si usamos el siguiente comando en la consola y accedemos desde el navegador a nuestro dominio podemos ver las estadísticas.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/c26a0e2f-6236-47d8-b6e7-8945be29763c)
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/8ef944d1-b62f-40d7-b12a-7ecdf1407199)
 
 ##### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.

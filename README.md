@@ -238,7 +238,7 @@ Copiamos el archivo de configuración por defecto de awstats para cada servidor 
 
 Ahora ejecutararemos el siguiente comando para actualizar los ficheros.
 
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/9134a896-ffd6-4f05-b50a-e421031c93b3)
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/846b689c-0716-42ea-ac77-d849f0c4c564)
 
 Finalmente si entramos en la ruta establecida de nuestro dominio podemos ver todas las estadísticas que se muestran.
 

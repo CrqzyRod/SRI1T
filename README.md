@@ -244,6 +244,4 @@ Finalmente si entramos en la ruta establecida de nuestro dominio podemos ver tod
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/8ef944d1-b62f-40d7-b12a-7ecdf1407199)
 
-FALTA DOCUMENTAR TODO AWSTAT
-
 ##### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.

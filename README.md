@@ -191,5 +191,17 @@ Si accedemos en un navegador con nuestro dominios podemos ver como el texto escr
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/f262ec5f-c1b4-44d5-8963-d4d73544cd0b)
 
 ##### Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.
+
+Para poder proteger el acceso a la aplicación de Python tenemos que instalar primero el paquete de utilidades de Apache. En mi caso ya lo tengo y por eso me sale el siguiente mensaje diciendo que ya está instalado en su versión más reciente.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/90664987-878c-44de-a55d-66ed41b680d2)
+
+Ahora crearemos el archivo de la contraseña usando el comando htpasswd. La primera vez que se use este comando debemos añadir la opción -c para crear el passwdfile. Para ello especificamos un nombre de usuario que será el que usaremos más tarde para autenticarnos en la aplicación Python. En mi caso crearé una carpeta llamada password en los archivos de configuración del dominio departamentos.centro.intranet.
+
+juanma será el nombre con el que nos autenticaremos y luego nos pedirá que repitamos la contraseña
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/78ef306e-e751-4bb4-bdee-4c8d6dd507fd)
+
+
 ##### Instala y configura awstat.
 ##### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.

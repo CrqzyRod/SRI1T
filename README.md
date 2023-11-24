@@ -208,7 +208,7 @@ Si visualizamos el contenido de la carpeta donde hemos guardado la contraseña p
 
 Ahora configuraremos el virtualhost para añadir la siguiente directiva.
 
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/ee7b5e35-e4e3-4fc4-bd46-d5d62e2a2947)
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/2e57cc5b-d8a2-4972-9ccd-273878d64cb8)
 
 Si entramos en nuestra aplicación web nos sale la siguiente ventana para introducir nuestras credenciales.
 

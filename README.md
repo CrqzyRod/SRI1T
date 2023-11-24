@@ -208,6 +208,8 @@ Si visualizamos el contenido de la carpeta donde hemos guardado la contraseña p
 
 Ahora configuraremos el virtualhost para añadir la siguiente directiva.
 
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/90692f88-4258-46d6-9d20-5b88df170d6a)
+
 
 ##### Instala y configura awstat.
 ##### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.

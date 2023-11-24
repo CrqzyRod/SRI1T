@@ -220,18 +220,8 @@ Instalamos awstat con el comando apt-get install awstats
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/1516b272-e764-4e26-bfb2-82b94bf25a5a)
 
-Una vez instalado vamos a configurarlo, para ello copiaremos su archivo por defecto para usarlo en nuestro sitio web específico.
 
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/7fbc96b1-28d9-41e3-9600-0de211153f71)
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/9134a896-ffd6-4f05-b50a-e421031c93b3)
 
-Abrimos el archivo de configuración con nano e introducimos los siguientes parámetros.
-
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/bf81f7a4-0783-4902-b9af-45304bc814b6)
-
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/f74a0983-45ac-431b-a506-65c149353a85)
-
-Usamos ln para crear un acceso directo
-
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/71fcf9e7-f766-43ae-8afc-8ae47418e9ab)
 
 ##### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.

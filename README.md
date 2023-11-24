@@ -227,6 +227,14 @@ Si usamos el siguiente comando en la consola y accedemos desde el navegador a nu
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/c26a0e2f-6236-47d8-b6e7-8945be29763c)
 
+Configuramos el archivo de configuración awstats en Apache con los siguientes parámetros y reinciamos Apache.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/eb5c2301-d883-42c4-b34a-e93724e79469)
+
+Copiamos el archivo de configuración por defecto de awstats para cada servidor en el que lo queramos añadir. Configuramos los siguientes parámetros dentro del fichero usando nano para poder editarlo.
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/4aa6564f-5b7e-44f5-bc88-bfced5106c1e)
+
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/8ef944d1-b62f-40d7-b12a-7ecdf1407199)
 
 FALTA DOCUMENTAR TODO AWSTAT

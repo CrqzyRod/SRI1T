@@ -230,4 +230,8 @@ Abrimos el archivo de configuración con nano e introducimos los siguientes par�
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/f74a0983-45ac-431b-a506-65c149353a85)
 
+Usamos ln para crear un acceso directo
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/71fcf9e7-f766-43ae-8afc-8ae47418e9ab)
+
 ##### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.

@@ -215,4 +215,15 @@ Si entramos en nuestra aplicación web nos sale la siguiente ventana para introd
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/b2ee9d98-595a-45c1-a202-c03b9371e7cd)
 
 ##### Instala y configura awstat.
+
+Instalamos awstat con el comando apt-get install awstats
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/1516b272-e764-4e26-bfb2-82b94bf25a5a)
+
+Una vez instalado vamos a configurarlo, para ello copiaremos su archivo por defecto para usarlo en nuestro sitio web específico.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/7fbc96b1-28d9-41e3-9600-0de211153f71)
+
+Abrimos el archivo de configuración con nano e introducimos los siguientes parámetros.
+
 ##### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.

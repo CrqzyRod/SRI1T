@@ -220,9 +220,6 @@ Instalamos awstat con el comando apt-get install awstats
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/1516b272-e764-4e26-bfb2-82b94bf25a5a)
 
-
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/9134a896-ffd6-4f05-b50a-e421031c93b3)
-
 Si usamos el siguiente comando en la consola y accedemos desde el navegador a nuestro dominio podemos ver las estadísticas.
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/c26a0e2f-6236-47d8-b6e7-8945be29763c)
@@ -231,9 +228,15 @@ Configuramos el archivo de configuración awstats en Apache con los siguientes p
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/eb5c2301-d883-42c4-b34a-e93724e79469)
 
-Copiamos el archivo de configuración por defecto de awstats para cada servidor en el que lo queramos añadir. Configuramos los siguientes parámetros dentro del fichero usando nano para poder editarlo.
+Copiamos el archivo de configuración por defecto de awstats para cada servidor en el que lo queramos añadir. Configuramos los siguientes parámetros dentro del fichero usando nano para poder editarlo. Editaremos LogFile,SiteDomain y HostAliases.
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/4aa6564f-5b7e-44f5-bc88-bfced5106c1e)
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/09fafd6e-6a7d-4470-be05-fc984aabd450)
+
+![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/fbb2bfac-9f8a-4a53-a47e-9ad45d6faa81)
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/9134a896-ffd6-4f05-b50a-e421031c93b3)
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/8ef944d1-b62f-40d7-b12a-7ecdf1407199)
 

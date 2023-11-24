@@ -202,6 +202,12 @@ juanma será el nombre con el que nos autenticaremos y luego nos pedirá que rep
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/78ef306e-e751-4bb4-bdee-4c8d6dd507fd)
 
+Si visualizamos el contenido de la carpeta donde hemos guardado la contraseña podemos ver el nombre de usuario que hemos creado y junto a él la contraseña cifrada.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/8805a5ea-fd9f-4b66-baf9-e77c8d06f5be)
+
+Ahora configuraremos el virtualhost para añadir la siguiente directiva.
+
 
 ##### Instala y configura awstat.
 ##### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.

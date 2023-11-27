@@ -274,3 +274,10 @@ Si entramos de nuevo después de haber modificado el fichero de configuración d
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/6c435930-9871-4a6c-938c-912cd29283b2)
 
+Una vez introducido el código damos aceptar sin marcar nada
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/edeeb4b6-aa71-4984-a3f2-a536c4737f19)
+
+Le damos a sí
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/6748a320-0e4d-48d5-b442-7020952818c9)

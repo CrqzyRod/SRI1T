@@ -288,3 +288,7 @@ No seleccionamos ninguna y damos siguiente
 Establecemos la contraseña
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/925a77ad-c952-4161-955f-fc0dac1def7e)
+
+Usando el comando ln copiamos todo el contenido que ha generado automáticamente phpmyadmin en nuestra carpeta de configuración.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/4c23bb2f-895e-4d2c-9143-bdb96c34be13)

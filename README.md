@@ -261,5 +261,8 @@ Si entramos con el dominio y el puerto que hemos añadido podemos ver como carga
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/0eedf402-556b-4ea5-8310-2793ae7b5e83)
 
+Instalamos los siguientes paquetes para instalar mysql y php
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/74d397c7-ba29-487c-951d-da9cd116194c)
 
 

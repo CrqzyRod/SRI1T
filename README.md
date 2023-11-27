@@ -274,22 +274,3 @@ Si entramos de nuevo después de haber modificado el fichero de configuración d
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/6c435930-9871-4a6c-938c-912cd29283b2)
 
-Para instalar phpmyadmin instalamos las siguientes librerías.
-
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/58cfffce-e4f4-47ab-9f9d-40fd7ea543b2)
-
-Una vez instaladas nos saltará la siguiente ventana.
-
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/914bae1a-28a3-4ee3-884c-37ad5a340395)
-
-No seleccionamos ninguna y damos siguiente
-
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/7ece777e-91ce-4786-8356-68e13ab4fee2)
-
-Establecemos la contraseña
-
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/925a77ad-c952-4161-955f-fc0dac1def7e)
-
-Usando el comando ln copiamos todo el contenido que ha generado automáticamente phpmyadmin en nuestra carpeta de configuración.
-
-![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/4c23bb2f-895e-4d2c-9143-bdb96c34be13)

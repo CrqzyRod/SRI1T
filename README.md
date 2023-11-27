@@ -281,7 +281,7 @@ Una vez instaladas nos saltará la siguiente ventana.
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/914bae1a-28a3-4ee3-884c-37ad5a340395)
 
-Le damos si
+No seleccionamos ninguna y damos siguiente
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/7ece777e-91ce-4786-8356-68e13ab4fee2)
 

@@ -245,3 +245,21 @@ Finalmente si entramos en la ruta establecida de nuestro dominio podemos ver tod
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/8ef944d1-b62f-40d7-b12a-7ecdf1407199)
 
 ##### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.
+Para instalar nginx usamos el siguiente comando
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/ed09e303-cb99-4ea6-b93a-c5b31f8b2200)
+
+Lo iniciamos
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/2d13d2ea-0081-40ce-9652-e4fae8ef25cc)
+
+Modificamos el archivo hosts
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/03ff2e21-c6ab-47d5-bca8-9b25fed42e6f)
+
+Modificamos el puerto en el que va a servir y la ruta donde se encuentra
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/452fab42-6369-41e4-9c5d-47fd0482144b)
+
+Si entramos con el dominio y el puerto que hemos añadido podemos ver como carga nginx
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/0eedf402-556b-4ea5-8310-2793ae7b5e83)
+
+
+

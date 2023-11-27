@@ -252,6 +252,7 @@ Lo iniciamos
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/2d13d2ea-0081-40ce-9652-e4fae8ef25cc)
 
 Modificamos el archivo hosts
+
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/03ff2e21-c6ab-47d5-bca8-9b25fed42e6f)
 
 Modificamos el puerto en el que va a servir y la ruta donde se encuentra

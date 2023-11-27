@@ -274,6 +274,10 @@ Si entramos de nuevo después de haber modificado el fichero de configuración d
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/6c435930-9871-4a6c-938c-912cd29283b2)
 
+Usamos el siguiente comando para instalar phpmyadmin.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/caee3af2-12a7-481a-93a3-f368b356421b)
+
 Una vez introducido el código damos aceptar sin marcar nada
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/edeeb4b6-aa71-4984-a3f2-a536c4737f19)

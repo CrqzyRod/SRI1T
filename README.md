@@ -290,6 +290,15 @@ Creamos un enlace simbólico en la ruta donde se encuentre nuestro directorio.
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/aa9bb896-b389-4a16-8de2-1b819b2707a0)
 
+En el fichero de configuración del servidor nginx añadimos index.php
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/28a7339d-ef63-4680-a04a-cc3eb54dd45b)
+
 Si entramos en un navegador en el dominio configurado anteriormente añadiendo /phpmyadmin podemos entrar en la página de phpmyadmin.
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/98c16511-449c-4dd5-b3b3-0daf3ce9ced2)
+
+Si introducimos nuestros datos podemos acceder y visualizar la base de datos que hemos creado anteriormente.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/171c6516-aa1e-46b0-a3f6-119f282f7524)
+

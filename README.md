@@ -156,7 +156,7 @@ Al iniciar sesión entramos en la interfaz gráfica de configuración de página
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/64f6e27d-c660-4ee0-a1ea-61360c93343c)
 
-##### Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
+##### 4.Activar el módulo "wsgi" para permitir la ejecución de aplicaciones Python.
 
 Primero haremos que Apache incorpore un soporte para servir archivos Python, para ello ejecutaremos la siguiente línea de comandos.
 
@@ -164,7 +164,7 @@ Primero haremos que Apache incorpore un soporte para servir archivos Python, par
 
 Una vez activado el módulo reiniciamos Apache para aplicar los cambios.
 
-##### Crea y despliega una pequeña aplicación en Python para comprobar que funciona correctamente.
+##### 5.Crea y despliega una pequeña aplicación en Python para comprobar que funciona correctamente.
 
 Antes de crear y desplegar la aplicación en Python tenemos que crear los directorios necesarios. Debemos tener un directorio principal destinado a montar toda la aplicación en el cuál añadiremos los distintos directorios de configuración. La arquitectura de este directorio estára dividida en dos partes.
 1.  Estará destinada al almacenaje de nuestra aplicación Python y será un directorio privado.
@@ -190,7 +190,7 @@ Si accedemos en un navegador con nuestro dominios podemos ver como el texto escr
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/f262ec5f-c1b4-44d5-8963-d4d73544cd0b)
 
-##### Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.
+##### 6.Adicionalmente protegeremos el acceso a la aplicación Python mediante autenticación.
 
 Para poder proteger el acceso a la aplicación de Python tenemos que instalar primero el paquete de utilidades de Apache. En mi caso ya lo tengo y por eso me sale el siguiente mensaje diciendo que ya está instalado en su versión más reciente.
 
@@ -214,7 +214,7 @@ Si entramos en nuestra aplicación web nos sale la siguiente ventana para introd
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/b2ee9d98-595a-45c1-a202-c03b9371e7cd)
 
-##### Instala y configura awstat.
+##### 7.Instala y configura awstat.
 
 Instalamos awstat con el comando apt-get install awstats
 
@@ -244,7 +244,7 @@ Finalmente si entramos en la ruta establecida de nuestro dominio podemos ver tod
 
 ![image](https://github.com/CrqzyRod/SRI1T/assets/122454007/8ef944d1-b62f-40d7-b12a-7ecdf1407199)
 
-##### Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.
+##### 8.Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios para ejecutar php. Instala phpmyadmin.
 Para instalar nginx usamos el siguiente comando
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/ed09e303-cb99-4ea6-b93a-c5b31f8b2200)
 

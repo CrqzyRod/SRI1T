@@ -285,3 +285,11 @@ Una vez introducido el código damos aceptar sin marcar nada
 Le damos a sí
 
 ![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/6748a320-0e4d-48d5-b442-7020952818c9)
+
+Creamos un enlace simbólico en la ruta donde se encuentre nuestro directorio.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/aa9bb896-b389-4a16-8de2-1b819b2707a0)
+
+Si entramos en un navegador en el dominio configurado anteriormente añadiendo /phpmyadmin podemos entrar en la página de phpmyadmin.
+
+![imagen](https://github.com/CrqzyRod/SRI1T/assets/122454007/98c16511-449c-4dd5-b3b3-0daf3ce9ced2)
